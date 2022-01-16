@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+
+}
+button {
+      border: 0;
+    cursor: pointer;
+}
